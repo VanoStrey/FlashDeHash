@@ -8,7 +8,7 @@
 
 ## 🔍 What makes FlashDeHash different?
 
-- 🌩️ Ultra-fast lookups (typically under 200 ms)
+- 🌩️ Ultra-fast lookups (typically under 2 ms)
 - 🧠 Smart data encoding (3 bytes per combination)
 - 💾 Massive coverage (up to 10 billion+ entries)
 - 🧵 Multi-threaded dictionary access
