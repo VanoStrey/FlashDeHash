@@ -30,13 +30,7 @@
 
 A working Telegram bot is available for testing:
 **[@FlashDeHash_bot](https://t.me/FlashDeHash_bot)**
-
----
-
-## 📽️ Live demo (optional)
-
-You can see the tool in action here:
-[▶️ Demo Video](https://your-demo-link.com)
+🖥️ Run on orange pi zero 2
 
 ---
 
