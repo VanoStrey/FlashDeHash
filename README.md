@@ -23,10 +23,10 @@
 
 ## 🎯 Use Cases
 
-- ✅ Penetration testing
-- ✅ Offline hash audits
-- ✅ Dictionary-based password recovery
-- ✅ Hash vulnerability research
+- ✅ Penetration testing  
+- ✅ Offline hash audits  
+- ✅ Dictionary-based password recovery  
+- ✅ Hash vulnerability research  
 
 ---
 
@@ -36,6 +36,15 @@
 👉 [@FlashDeHash_bot](https://t.me/FlashDeHash_bot)
 
 💡 Tested even on **Orange Pi Zero 2** with blazing speed!
+
+---
+
+## 💸 Support / Donate
+
+If you like this project and want to support its development, consider donating:  
+👉 **[Support the project](https://example.com/donate)** ← *(replace with your link)*
+
+Even a small contribution helps keep the project running and growing!
 
 ---
 
