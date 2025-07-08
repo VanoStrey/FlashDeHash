@@ -1,5 +1,3 @@
-# FlashDeHash
-
 ![Logo](IMG_20250708_074136_848.jpg)
 
 **FlashDeHash** is a revolutionary hash matching engine that performs instant lookups across billions of combinations using binary dictionary technology.
