@@ -37,7 +37,7 @@ A working Telegram bot is available for testing:
 
 ## 🚫 Source code not available
 
-The full implementation of FlashDeHash is private. If you're interested in collaboration, licensing, or research use — [contact the author](http://mailto:ivanmedvedev1357@gmail.com).
+The full implementation of FlashDeHash is private. If you're interested in collaboration, licensing, or research use — [contact the author](<http://mailto:ivanmedvedev1357@gmail.com>).
 
 ---
 
