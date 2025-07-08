@@ -8,7 +8,7 @@
 
 ## 🔍 What makes FlashDeHash different?
 
-- 🌩️ Ultra-fast lookups (typically under 2 ms)
+- 🌩️ Ultra-fast lookups (typically under 500 ms)
 - 🧠 Smart data encoding (3 bytes per combination)
 - 💾 Theoretically infinite range of combinations (given the proper disk capacity)
 - 🧵 Multi-threaded dictionary access
@@ -30,6 +30,7 @@
 
 A working Telegram bot is available for testing:
 **[@FlashDeHash_bot](https://t.me/FlashDeHash_bot)**
+
 🖥️ Run on orange pi zero 2
 
 ---
