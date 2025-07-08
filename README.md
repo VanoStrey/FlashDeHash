@@ -10,7 +10,7 @@
 
 - 🌩️ Ultra-fast lookups (typically under 2 ms)
 - 🧠 Smart data encoding (3 bytes per combination)
-- 💾 Massive coverage (up to 10 billion+ entries)
+- 💾 Theoretically infinite range of combinations (given the proper disk capacity)
 - 🧵 Multi-threaded dictionary access
 - 🔒 Custom hash & alphabet support
 - 🐞 Exceptionally low system load
