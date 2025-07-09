@@ -35,8 +35,6 @@
 🚀 A working Telegram bot is available for testing:  
 👉 [@FlashDeHash_bot](https://t.me/FlashDeHash_bot)
 
-💡 Tested even on **Orange Pi Zero 2** with blazing speed!
-
 ---
 
 ## 💸 Support / Donate
